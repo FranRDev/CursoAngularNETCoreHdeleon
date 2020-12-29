@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAngularNETCoreHdeleon", "CursoAngularNETCoreHdeleon.csproj", "{D6DD08BB-CDD9-411C-A4E4-FC2A0B64835D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6DD08BB-CDD9-411C-A4E4-FC2A0B64835D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DD08BB-CDD9-411C-A4E4-FC2A0B64835D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DD08BB-CDD9-411C-A4E4-FC2A0B64835D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DD08BB-CDD9-411C-A4E4-FC2A0B64835D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54823F59-21AB-4B69-852B-E1B154253CAE}
+	EndGlobalSection
+EndGlobal
